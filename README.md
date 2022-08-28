@@ -6,10 +6,10 @@ I am a future full stack developer from Guatemala, I love to code, keep learning
 
 * GitHub stats:
 <a href="#">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OliverosA"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OliverosA&theme=radical"/>
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=OliverosA&show_icons=true&line_height=27" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=OliverosA&show_icons=true&theme=radical&line_height=27" alt="My github stats" />
 </a>  
 
 ## What I do
