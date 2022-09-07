@@ -21,7 +21,6 @@ export default class Info{
     nationality: string = 'Guatemala';
     languages: string[] = ['Spanish: Native', 'English: between B1 Intermediate to B2 Upper Intermediate'];
     school: string = 'ABC San Francisco';
-    ocupation: string = 'Logistics manager';
     free_time: string = 'Learning new technologies and playing video games';
 }
 
