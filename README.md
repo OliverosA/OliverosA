@@ -27,7 +27,7 @@ export default class Info{
 export default class Programming{
     languages: string[] = ['Python', 'JS', 'TS', 'PHP'];
     stylesheets: string = 'CSS';
-    frameworksOrLibraries: string = ['Reactjs'];
+    frameworksOrLibraries: string[] = ['Reactjs'];
 }
 ```
 <!--
